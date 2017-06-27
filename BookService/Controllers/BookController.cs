@@ -14,6 +14,7 @@ namespace BookService.Controllers
 {
     public class BookController : ApiController
     {
+
         private acesmisEntities1 db = new acesmisEntities1();
 
         // GET: api/Book
